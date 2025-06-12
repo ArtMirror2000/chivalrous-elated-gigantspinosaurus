@@ -1,0 +1,19 @@
+---
+layout: layouts/default.njk
+pageTitle: Eleventy on Glitch
+---
+
+<h1>Welcome to {{ siteData.name }}</h1>
+
+<p>
+  This app started during the February 2024
+  <a href="https://glitch.com/jam">Glitch Community Code Jam</a> prompt,
+  "welcome to my blog." We asked the community to share their blogs with us (on
+  or off Glitch) and here they are.
+</p>
+
+<ol>
+  {% for blog in blogs %}
+  <li><a href="/blogs/{{ blog.title | slugify  }}">{{ blog.title }}</a></li>
+  {% endfor %}
+</ol>
