@@ -1,0 +1,9 @@
+---
+pagination:
+  data: blogs
+  size: 1
+  alias: blog
+permalink: "blogs/{{ blog.title | slugify }}"
+---
+
+{{ content | safe }}

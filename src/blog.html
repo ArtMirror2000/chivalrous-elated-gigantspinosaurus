@@ -1,0 +1,41 @@
+---
+layout: layouts/blog.njk
+pageTitle: Eleventy on Glitch
+---
+
+<h1>Welcome to {{ siteData.name }}</h1>
+
+<h2><a href="{{ blog.url }}">{{ blog.title }}</a></h2>
+
+<blockquote>{{ blog.description }}</blockquote>
+
+<ul>
+  <li>
+    Glitch profile:
+    <a href="https://glitch.com/@{{ blog.username }}">{{ blog.username }}</a>
+  </li>
+
+  {% if blog.host %}
+  <li>Host: {{ blog.host }}</li>
+  {% endif %} 
+  
+  {% if blog.stack %}
+  <li>Stack: {{ blog.stack }}</li>
+  {% endif %} 
+  
+  {% if blog.bestPost %}
+  <li>
+    If you can only read one post,
+    <a href="{{ blog.bestPost }}">it's this one</a>
+  </li>
+  {% endif %}
+</ul>
+
+<nav aria-labelledby="pagination">
+  <p id="pagination">View more blogs:</p>
+  <ul>
+    {% if pagination.href.previous %}<li><a href="{{ pagination.href.previous }}">&larr; Previous</a></li>{% endif %}
+    {% if pagination.href.next %}<li><a href="{{ pagination.href.next }}">Next &rarr;</a></li>{% endif %}
+    <li><a href="/">Go back to home to {{ siteData.name }}</a></li>
+  </ul>
+</nav>

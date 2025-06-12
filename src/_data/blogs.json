@@ -1,0 +1,343 @@
+[
+  {
+    "username": "tiagorangel",
+    "url": "https://blog.tiagorangel.com/",
+    "title": "Tiago's notes",
+    "host": "Hashnode",
+    "description": "just random stuff lol"
+  },
+  {
+    "username": "ckolderup",
+    "url": "https://motd.co",
+    "title": "MOTD.CO",
+    "host": "Dreamhost",
+    "stack": "Eleventy in its most recent incarnation",
+    "description": "It's a mish-mash of sharing projects I've worked on, links I think are interesting, and pretty reliably year-end content about my favorite music",
+    "bestPost": "https://motd.co/2018/04/how-to-shuffle-a-playlist-on-youtube/"
+  },
+  {
+    "username": "jennschiffer",
+    "url": "https://livelaugh.blog",
+    "title": "live laugh blog",
+    "host": "Glitch",
+    "stack": "Eleventy",
+    "description": "it's a lifestyle blog, i make candles and paint and i talk about it",
+    "bestPost": "https://livelaugh.blog/posts/10-years-since-i-warned-you-about-bitcoin/"
+  },
+  {
+    "username": "jennwrites",
+    "url": "https://milasaidwhat-blog.tumblr.com/",
+    "title": "Mila Said What!?",
+    "host": "Tumblr",
+    "description": "This is a very old blog, because I am not ready to share my in progress one. The motivation behind this blog was to capture my then-toddler's hilarious musings and our little conversations. Now that she's a teen, it's nice to go back and revisit her toddler thoughts once in a while!",
+    "bestPost": "https://milasaidwhat-blog.tumblr.com/post/95332054413/not-what-i-thought-you-meant"
+  },
+  {
+    "username": "khalby786",
+    "url": "https://blog.khaleelgibran.com",
+    "title": "thedonutblog",
+    "host": "Netlify",
+    "stack": "Eleventy",
+    "description": "It's probably the only blog that I've been able to maintain without trying out a new blog stack. It is intended to be a technical blog, but it also has a personal side to it, and you'll find exactly what goes in the brains of nerdy seventeen year-olds like me - video games, lame jokes and stupid code.",
+    "bestPost": "https://blog.khaleelgibran.com/posts/2023-year-in-review/"
+  },
+  {
+    "username": "n.hieda",
+    "url": "https://naotohieda.com/blog/",
+    "title": "naotohieda.com blog",
+    "host": "github pages",
+    "stack": "jekyll",
+    "description": "It's about me, my thoughs, (old) projects, sketches, ...",
+    "bestPost": "https://naotohieda.com/blog/dance-at-home-en/"
+  },
+  {
+    "username": "n.hieda",
+    "url": "https://sweaters.glitch.me/",
+    "title": "Naoto's Sweaters",
+    "host": "Glitch",
+    "stack": "Eleventy, Tailwind",
+    "description": "Collection of Naoto's sweaters and their stories",
+    "bestPost": "https://sweaters.glitch.me/posts/blue-sweater/"
+  },
+  {
+    "username": "polotek",
+    "url": "https://polotek.net/",
+    "title": "These Yaks Ain't Gonna Shave Themselves",
+    "host": "github pages",
+    "stack": "hugo",
+    "description": "I've been a manager for a long time, and I'm just getting back into doing side projects. I didn't have a place to post technical content. Just whatever I'm learning as I dust off my skills and tinker around.",
+    "bestPost": "https://marcorogers.com/blog/advice-for-engineers-from-a-manager"
+  },
+  {
+    "username": "spencertweedy",
+    "url": "https://spencertweedy.substack.com/",
+    "title": "Spencer Tweedy",
+    "host": "Substack",
+    "description": "I write about my life as a drummer in the studio and on the road.",
+    "bestPost": "https://spencertweedy.substack.com/p/deluge"
+  },
+  {
+    "username": "stefan",
+    "url": "https://stefanbohacek.com/blog/",
+    "title": "Latest posts from Stefan Bohacek's blog",
+    "host": "DigitalOcean",
+    "stack": "WordPress",
+    "description": "I cover a variety of topics on my blog, from tutorials (including for Glitch), data explorations, writing about the fediverse, and music production. Anything that interests me.",
+    "bestPost": "https://stefanbohacek.com/blog/a-netizens-guide-to-mastodon-fediverse/"
+  },
+  {
+    "username": "theRealProHacker",
+    "url": "https://medium.com/@rosk.abed",
+    "title": "Math & Science",
+    "host": "Medium",
+    "description": "My blog is about various different topics that excite me and I hope to extend my excitement to my readers.",
+    "bestPost": "https://medium.com/intuitionmath/why-all-numbers-are-imaginary-3b88eda407e6"
+  },
+  {
+    "username": "wh0",
+    "url": "https://wh0.github.io/",
+    "title": "(untitled)",
+    "host": "GitHub Pages",
+    "stack": "GitHub Pages built in Jekyll, Git, markdown, custom templates (guess who had too much time), vanilla JS, Google Fonts, graphviz, diagrams.net",
+    "description": "It's mostly about software, but it doesn't stick to any one topic within that.",
+    "bestPost": "https://wh0.github.io/2020/01/02/scissors.html"
+  },
+  {
+    "username": "cogdog",
+    "url": "https://cogdogblog.com",
+    "title": "CogDogBlog",
+    "stack": "WordPress",
+    "description": "Just my space for thinking out loud (or complaining, or sharing neat stuff found, celebrsting the weird serendipity effects of the open web or sharing photos of my dog), primarily for me, writing helps me think through ideas.",
+    "bestPost": "https://cogdogblog.com/2007/11/unknown-flowers/"
+  },
+  {
+    "username": "jonoellis",
+    "url": "https://ellis.scot/",
+    "title": "Jono Ellis",
+    "host": "GitHub",
+    "stack": "GitHub Pages",
+    "description": "I love blogging about music and sharing some experimental interactive fiction.",
+    "bestPost": "https://ellis.scot/2023/09/the-chambered-cairn/"
+  },
+  {
+    "username": "och",
+    "url": "https://quantumland.art/news",
+    "title": "Quantumland.art Newsletter",
+    "host": "GitHub",
+    "stack": "believe it or not, it is just vanilla html and css.",
+    "description": "This is a personal blog about my practice as an artist-researcher-technologist. At the beginning of each month I share news about writings, creative works, software, awards, and events.",
+    "bestPost": "https://www.quantumland.art/news/20231101.html"
+  },
+  {
+    "username": "zidane168",
+    "url": "https://learn-tech-tips.blogspot.com/",
+    "title": "Webzone - All things tech tips web development",
+    "host": "Blogspot",
+    "description": "My blog covers various topics related to technology and provides tips and tricks for learning and working with different technologies. shares my experiences and knowledge to help others solve technical issues and learn new skills. The blog covers a range of topics, including programming, cloud services, Docker, and integration with various platforms.",
+    "bestPost": "https://learn-tech-tips.blogspot.com/2015/06/%20how-to-monitor-data-changes-in-sql-server-tables-with-triggers.html"
+  },
+  {
+    "username": "adnroy",
+    "url": "https://adamroy.glitch.me/",
+    "title": "Adam's Cool Blog",
+    "host": "Glitch",
+    "stack": "Eleventy",
+    "description": "Adam's Cool Blog is the personal blog for Adam Roy, executive editor of Backpacker Magazine",
+    "bestPost": "https://adamroy.glitch.me/posts/20230208-spiders-and-spider-wasps/"
+  },
+  {
+    "username": "ahmetasabanci",
+    "url": "https://ahmetasabanci.com",
+    "title": "Weird and Deadly Interesting",
+    "host": "Namecheap",
+    "stack": "Wordpress",
+    "description": "It's a blog about all the things I find interesting and worth sharing, so you'll find many different topics in this one. I also blog both in English and Turkish."
+  },
+  {
+    "username": "brennan",
+    "url": "https://journal.kim",
+    "title": "A Metasystem Experiment",
+    "stack": "Jekyll",
+    "description": "A little minimalist blog I made from scratch in Jekyll documenting my self-improvement journey from the start of the COVID-19 pandemic up until June 2021.",
+    "bestPost": "https://journal.kim/current"
+  },
+  {
+    "username": "cfjedimaster",
+    "url": "https://www.raymondcamden.com",
+    "title": "Raymond Camden",
+    "host": "Netlify",
+    "stack": "Eleventy",
+    "description": "I blog about the web platform, AI, serverless, and cats.",
+    "bestPost": "https://www.raymondcamden.com/2023/12/08/the-twelve-generative-days-of-christmas"
+  },
+  {
+    "username": "edgeeffect",
+    "url": "https://andy-preston.github.io/",
+    "title": "Andy Preston's Curate's Egg",
+    "host": "GitHub",
+    "stack": "Eleventy plus some bits and bobs of my own code.",
+    "description": "Ill conceived ramblings of a greybeard. No coherence. Rarely updated. Only a passing resemblance to a real blog. ;)",
+    "bestPost": "https://andy-preston.github.io/blue-pill-black-magic-probe.html"
+  },
+  {
+    "username": "emceeaich",
+    "url": "https://emmas.site",
+    "title": "Infinite Wishes",
+    "host": "GitHub Pages",
+    "stack": "Jekyll",
+    "description": "Rockets, music, and being tired about tech.",
+    "bestPost": "https://emmas.site/blog/2021/08/14/return-to-flight"
+  },
+  {
+    "username": "empeje",
+    "url": "https://blog.mpj.io",
+    "title": "Mpj's blog",
+    "host": "Medium",
+    "stack": "Medium",
+    "description": "Yo! 🚀 Brace yourself for exclusive insights into the mix of DevOps realm, unconventional wisdom on building businesses, & the unfiltered truth about life's journey. Fasten your seatbelt–consider this your VIP pass to a raw, real-deal experience. Ready to elevate together? 💻🔥🌍",
+    "bestPost": "https://blog.mpj.io/4-best-buy-of-2023-programmer-edition-4beb9fa12b19"
+  },
+  {
+    "username": "jensadev",
+    "url": "https://jensa.dev/",
+    "title": "J.Anteckningar",
+    "host": "Netlify",
+    "stack": "Eleventy",
+    "description": "I'm a teacher and collect notes and material from my work (web/programming education) on the blog. It's currently in swedish."
+  },
+  {
+    "username": "jericson",
+    "url": "https://beta.buildcivitas.com/t/announcing-the-civitas-community/55",
+    "title": "Civitas",
+    "host": "Discourse",
+    "description": "It's intended as a group blog. So far it's just me, but I have a small group who will be writing soonish.",
+    "bestPost": "https://beta.buildcivitas.com/t/my-approach-to-community-consulting/68"
+  },
+  {
+    "username": "juniHub",
+    "url": "https://enlear.academy/dynamic-animations-with-svgmorph-and-gsap-a681ce5a16a1",
+    "title": "Dynamic Animations with SVGMorph and GSAP",
+    "host": "Medium",
+    "stack": "coding, web development, web design, react, javascript, html, css",
+    "description": "tips on web development and coding"
+  },
+  {
+    "username": "kaitwalla",
+    "url": "https://kait.dev",
+    "title": "Kait devs",
+    "host": "Self-hosted",
+    "stack": "Statamic",
+    "description": "A decent amount of tech nerdery, but interspersed with some lesbian romance reviews, pictures of cats, you know the drill.",
+    "bestPost": "https://kait.dev/posts/real-life-ghost-story"
+  },
+  {
+    "username": "mattly",
+    "url": "lyonheart.us",
+    "title": "Matthew Lyon",
+    "host": "cloudflare pages, though I'm thinking of moving it to nginx somewhere",
+    "stack": "Astro",
+    "description": "writings about tech, interface design, music, and personal healing",
+    "bestPost": "https://lyonheart.us/regretting-the-golden-handcuffs/"
+  },
+  {
+    "username": "OmarSamehShehata",
+    "url": "https://omarshehata.me/notebook",
+    "title": "Omar's notebook",
+    "host": "https://omarshehata.me/notebook",
+    "stack": "Handmade! (backend is Django, each post is an HTML page, with some emojis at the top of each file to mark what category it's in, which the server reads before serving)",
+    "description": "I started this blog because I wanted to create a little corner for myself on the internet where I can talk about things I'm learning in a way that I can share with friends. I was inspired by others I saw who have a \"notebook\" instead of a \"blog\" because that feels less serious, like the posts don't have to be perfect, and that makes it easier for me to write and share",
+    "bestPost": "https://omarshehata.me/notebook/mapping_my_ithaca"
+  },
+  {
+    "username": "ricmac",
+    "url": "https://cybercultural.com/",
+    "title": "Cybercultural",
+    "host": "Netlify",
+    "stack": "Eleventy, Netlify, GitHub",
+    "description": "It's about tech history and its impact on our culture. I'm currently serializing my latest book, a memoir entitled “Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution”.",
+    "bestPost": "https://cybercultural.com/p/introduction-to-bubble-blog-book/"
+  },
+  {
+    "username": "smansonsmith",
+    "url": "https://airaware.substack.com/",
+    "title": "Air Aware",
+    "host": "Substack",
+    "description": "AirAware is a weekly blog that has information, news and analysis about air quality around Brixton in South London UK and beyond.",
+    "bestPost": "https://airaware.substack.com/p/no-to-no2"
+  },
+  {
+    "username": "tdhftw",
+    "url": "https://bored.horse",
+    "title": "The Bored Horse",
+    "host": "Cloudflare Pages",
+    "stack": "Eleventy and then some.",
+    "description": "The Bored Horse is about culture and tech, and how all that intermingles into what we see as normal things in are lives, but would've been science-fiction five years ago. It is not at all about horses.",
+    "bestPost": "https://bored.horse/post/dealing-with-the-bleak/"
+  },
+  {
+    "username": "teddlesruss",
+    "url": "https://zorganiteencumber.blogspot.com/",
+    "title": "The Zorganite Encumber",
+    "host": "blogspot",
+    "stack": "blogger.com",
+    "description": "It's all real!"
+  },
+  {
+    "username": "teddlesruss",
+    "url": "https://ohaicorona.com/teds-news-stand",
+    "title": "Ted's News Stand",
+    "stack": "WP",
+    "description": "This is the condensed version of all my last twenty blog posts anywhere",
+    "bestPost": "https://rebrand.ly/9vnad01"
+  },
+  {
+    "username": "thatvirtualboy",
+    "url": "thatvirtualboy.com",
+    "title": "thatvirtualboy",
+    "host": "Github",
+    "stack": "Jekyll",
+    "description": "Sharing mostly about iOS Development, Apple, and Enterprise Virtualization",
+    "bestPost": "https://thatvirtualboy.com/stepmania/"
+  },
+  {
+    "username": "triangleblogblog",
+    "url": "triangleblogblog.com",
+    "title": "TriangleBlogBlog.com",
+    "host": "Wordpress",
+    "description": "We are an all-volunteer blog covering civic information in Chapel Hill and Carrboro NC",
+    "bestPost": "https://triangleblogblog.com/2023/02/22/goodbye-structural-racism-hello-status-quo/"
+  },
+  {
+    "username": "Allo",
+    "url": "https://perchance.org/celestia-says",
+    "title": "Celestia Says",
+    "host": "Perchance frontend and Glitch backend",
+    "stack": "javacript, perchancescript, node.js",
+    "description": "Let's make Equestria a better place for all."
+  },
+  {
+    "username": "asteroid1",
+    "url": "https://cult-of-verdana.glitch.me",
+    "title": "Cult of Verdana",
+    "host": "Glitch",
+    "stack": "Eleventy",
+    "description": "Cult of Verdana is an over-the-top fan site dedicated to Verdana, and one of the only font blogs currently online. You'll definitely enjoy reading this if you're a font nerd!",
+    "bestPost": "https://cult-of-verdana.glitch.me/posts/verdana-heaven/"
+  },
+  {
+    "username": "Allo",
+    "url": "https://perchance.org/luna-says",
+    "title": "Luna Says",
+    "host": "Perchance frontend Glitch backend",
+    "stack": "javascript, perchancescript, node.js",
+    "description": "Luna is here for you"
+  }, {
+    "username": "scripting",
+    "url": "http://scripting.com",
+    "title": "Scripting News",
+    "host": "Amazon S3",
+    "stack": "Old School",
+    "description": "It's been updating continuously for almost 30 freaking years!",
+    "bestPost": "http://scripting.com/2014/03/21/theWebIsMadeOfInterop.html"
+  }
+]
